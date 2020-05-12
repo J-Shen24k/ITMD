@@ -1,0 +1,46 @@
+body {
+  background-color: lightblue;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 90%;
+  padding: 10px;
+}
+
+h1 {
+  font-weight: bold;
+  color: white;
+}
+
+h3 {
+  color: navy;
+  font-family: 'Roboto', sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 10px;
+  text-align: right;
+  vertical-align: center;
+  padding: 10px;
+  background-color: white;
+}
+
+th, td {
+  padding: 10px;
+  text-align: right;
+}
+
+table, th, td {
+  border: 2px solid navy;
+}
+
+img {
+  border-radius: 50%;
+}
+
+hr { 
+  border: 0; 
+	height: 1px; 
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), navy, rgba(0, 0, 0, 0)); 
+}
